@@ -1,4 +1,4 @@
-# Rocket_design_optimization
+# Rocket_nozzle_design_optimization
 
 Rocket Design Optimization Objectives:
 When using GAs for rocket design optimization, several key design objectives can be targeted:
